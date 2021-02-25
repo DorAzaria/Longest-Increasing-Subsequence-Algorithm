@@ -12,5 +12,5 @@ Implementation of the algorithm problem - Longest Increasing Subsequence (LIS) i
 | GetOneLIS.java | return one Longest Increasing Subsequence (LIS) in a numeric array | O(n^2) |
 | GetAllLIS.java | return all Longest Increasing Subsequence (LIS) in a 2D numeric array | O(n*m + m^2) | 
 | LIS.java | contains the algorithms of this project (a library) | depends | 
-| TestLIS.java | Test runtime (ms) and logical correctness (35 tests) |  -- | 
-| TestSystem.java | The system that calculate measure the results | -- | 
+| TestLIS.java | test runtime (ms) and logical correctness (35 tests) |  -- | 
+| TestSystem.java | calculate and measure the test results | -- | 
