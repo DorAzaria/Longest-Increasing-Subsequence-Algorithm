@@ -2,7 +2,7 @@
 
 Implementation of the algorithm problem - Longest Increasing Subsequence (LIS) in Java Code.
 
-![](https://img.shields.io/david/optional/DorAzaria/Longest-Increasing-Subsequence-Algorithm) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DorAzaria/Longest-Increasing-Subsequence-Algorithm))
+![](https://img.shields.io/david/optional/DorAzaria/Longest-Increasing-Subsequence-Algorithm) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DorAzaria/Longest-Increasing-Subsequence-Algorithm)
 
 | File | Details | Time Complexity |
 | --- | --- | --- |
